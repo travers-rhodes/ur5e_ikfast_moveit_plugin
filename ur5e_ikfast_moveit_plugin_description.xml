@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libur5e_ikfast_moveit_plugin">
+  <class name="ur5e_ikfast_moveit_plugin/TraversIKFastKinematicsPlugin" type="ikfast_kinematics_plugin::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics compiled by Travers</description>
+  </class>
+</library>
